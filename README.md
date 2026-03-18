@@ -1,4 +1,4 @@
-![Profile Image](image.png)
+![Profile Image](image2.png)
 
 <h1 align="center">Hey there, I'm <span style="color:#4CAF50">Tan Zhi Wei</span> 👋</h1>
 
