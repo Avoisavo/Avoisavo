@@ -1,3 +1,8 @@
+![Profile Image](image.png)
+
+# Tan Zhi Wei
+**Full Stack Developer**
+
 ## 🏆 Hackathons & Achievements
 
 | 🎯 Event | 💡 Project | Description | 🌟 Achievement | 🔗 Links |
