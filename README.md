@@ -1,7 +1,9 @@
 ![Profile Image](image.png)
 
-# Tan Zhi Wei
-**Full Stack Developer**
+<h1 align="center">Hey there, I'm <span style="color:#4CAF50">Tan Zhi Wei</span> 👋</h1>
+
+<p align="center">💻 Full Stack Developer </p>
+
 
 ## 🏆 Hackathons & Achievements
 
