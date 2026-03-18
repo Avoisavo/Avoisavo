@@ -3,6 +3,11 @@
 <h1 align="center">Hey there, I'm <span style="color:#4CAF50">Tan Zhi Wei</span> 👋</h1>
 
 <p align="center">💻 Full Stack Developer </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanzhiwei0328/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 
 ## 🏆 Hackathons & Achievements
