@@ -14,6 +14,10 @@
 
 | 🎯 Event | 💡 Project | Description | 🌟 Achievement | 🔗 Links |
 | :--- | :--- | :--- | :--- | :--- |
+| **ETHGlobal Cannes 2026** | **—** | A decentralized verification engine where AI swarms determine real-world truth and trigger on-chain outcomes for prediction markets and autonomous settlement. | Top 10 Finalist 🎯, MiniKit 2.0 (1st) 🥇, Hedera Agentic (1st) 🥇, 0G OpenClaw (2nd) 🥈 | - |
+| **ETHGlobal New York 2026** | **MARS** | Marketplace for Audited, Reputable Skills—an on-chain marketplace where AI agents safely purchase independently audited and verified skills. | Arc Best Agentic Economy (1st) 🥇, Hedera Best AI & Agentic Payments (1st) 🥇, World AgentKit (2nd) 🥈 | - |
+| **Codex Community Hackathon Kuala Lumpur 2026** | **Scam Guard** | AI-powered bank-transfer safety layer that pauses suspicious payments, explains scam signals, uses ElevenLabs voice verification, and requires trusted-contact approval. | Best Project Built with ElevenLabs 🏆 | - |
+| **TNG Digital FINHACK 2026** | **Signal** | Turns siloed transaction data into real-time, AI-driven deal delivery, enabling mini-app vouchers and recommendations to reach users at the right moment during or after payment. | 4th Place 🎯 | - |
 | **Deriv AI Hackathon (2026)** | **Truman** | Engineered a multi-agent reasoning framework with probabilistic confidence scoring to reduce hallucination and enable early risk detection. | Runner Up 🥈 | [GitHub](https://github.com/Avoisavo/deriv2026) |
 | **First Movers Vietnam Sprint 2026** | **Phocast** | Joint-outcome private AMM prediction market pooling liquidity across correlated Yes/No questions. | Winner of DeFi Core & Financial Primitives 🏆 | [Post](https://www.deepsurge.xyz/projects/55e7cf5d-5f2d-4731-9578-be9972c1fa41) • [GitHub](https://github.com/derek2403/six-seven) |
 | **Cursor x Anthropic Hackathon Malaysia 2025** | **Twinkle** | AI avatars of loved ones to preserve memories and chat with their digital presence. | Top 15 Finalist 🌟 | [Post](https://devpost.com/software/twinkle-9ifxtg) • [GitHub](https://github.com/Avoisavo/Twinkle) |
